@@ -1,5 +1,7 @@
+#!/usr/bin/python3.5
 import plotly
 import plotly.graph_objs as go
+#By, codeDirtyToMe
 
 def plotOnGraph() :
     limit = 500
